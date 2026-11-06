@@ -17,7 +17,7 @@
 - [EasyDMARC](https://easydmarc.com/tools/dmarc-lookup): DMARC lookup
 - [Have I Been Pwned](https://haveibeenpwned.com/): breach lookup
 - [YouGetSignal](https://www.yougetsignal.com/): network tools
-- [SecurityTrails style utilities (suip.biz)](https://suip.biz/): online network utilities
+- [SUIP](https://suip.biz/): online network utilities
 
 ## Utilities
 
